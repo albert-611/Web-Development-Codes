@@ -1,0 +1,19 @@
+*{
+    background-color: hsl(0, 0%, 87%); 
+}
+
+h1{
+    text-align: right;
+}
+
+p{
+    text-align: end;  /*right*/
+}
+h3{
+    text-align: start;  /*left*/
+}
+
+.Story{
+    text-align: justify;
+    color: blue;
+}
