@@ -1,0 +1,9 @@
+div{
+    width: 300px;
+    height: 500px;
+    background-color: red;
+    margin: 10px auto;
+    background-image: url("car.jpg");
+    background-size: cover;
+    
+}
